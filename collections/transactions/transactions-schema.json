@@ -1,0 +1,52 @@
+[
+  {
+    "name": "account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "account_owner",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "amount",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "transaction_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "merchant_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "updated_at",
+    "type": "DATETIME",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "category",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "pending",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+  }
+]

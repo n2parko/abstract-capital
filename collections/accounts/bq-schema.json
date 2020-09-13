@@ -1,0 +1,37 @@
+[
+  {
+    "name": "account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "mask",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "official_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "subtype",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "updated_at",
+    "type": "DATETIME",
+    "mode": "NULLABLE"
+  }
+]

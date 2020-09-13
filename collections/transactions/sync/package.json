@@ -1,0 +1,20 @@
+{
+  "name": "synctransactions",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.7.1",
+    "@google-cloud/pubsub": "^0.18.0",
+    "envvar": "^2.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "plaid": "^7.0.0",
+    "util": "^0.12.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=syncTransactions"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
