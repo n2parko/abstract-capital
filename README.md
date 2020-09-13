@@ -1,4 +1,4 @@
-# abstract-capital :money_with_wings:
+# Abstract Capital :money_with_wings:
 
 Abstract Capital is a privacy-preserving personal finance data platform. This repo is the basis for the prototype described [here](https://n2parko.com/blog/select-robinhood-stocks)
 
