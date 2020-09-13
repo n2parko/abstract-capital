@@ -1,6 +1,6 @@
 # abstract-capital
 
-Abstract Capital is a privacy-preserving personal finance data platform. This repo is the basis for the prototype described [here]()
+Abstract Capital is a privacy-preserving personal finance data platform. This repo is the basis for the prototype described [here](https://n2parko.com/blog/select-robinhood-stocks)
 
 ![person without financial data access](images/diagram.png)
 
