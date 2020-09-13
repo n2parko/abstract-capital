@@ -1,7 +1,7 @@
 // load function for Accounts
 
 const { BigQuery } = require("@google-cloud/bigquery");
-const datasetId = "{{DATA_SET_ID}}";
+const datasetId = "{{DATA_SET_ID}}"; // bigquery dataset ID
 const tableId = "accounts";
 const bigqueryClient = new BigQuery();
 
